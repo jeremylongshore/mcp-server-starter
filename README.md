@@ -2,8 +2,8 @@
 
 A small remote MCP server you can deploy to Railway in one click. It has the boring parts done: Streamable HTTP transport, a `/health` check, bearer-token auth, structured JSON logs, env-based config, and one sample tool to replace with your own.
 
-<!-- Replace {TEMPLATE_CODE} after the template is created on Railway. -->
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/{TEMPLATE_CODE}?utm_medium=integration&utm_source=button&utm_campaign=mcp-server-starter)
+<!-- Replace mDG_97 after the template is created on Railway. -->
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/mDG_97?utm_medium=integration&utm_source=button&utm_campaign=mcp-server-starter)
 
 ## Endpoints
 
