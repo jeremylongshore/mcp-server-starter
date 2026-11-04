@@ -1,0 +1,18 @@
+{
+  "name": "mcp-server-starter",
+  "version": "0.1.0",
+  "description": "Minimal remote MCP server (Streamable HTTP) with a health check and one sample tool. Deploys to Railway in one click.",
+  "type": "module",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test test/"
+  },
+  "engines": { "node": ">=20" },
+  "license": "MIT",
+  "author": "Intent Solutions (Jeremy Longshore)",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.32.2",
+    "zod": "^3.25.0"
+  }
+}
